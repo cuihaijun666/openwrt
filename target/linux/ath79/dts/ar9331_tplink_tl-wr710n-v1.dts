@@ -93,8 +93,8 @@
 	gmac-config {
 		device = <&gmac>;
 
-		switch-phy-addr-swap = <0>;
-		switch-phy-swap = <0>;
+		switch-phy-addr-swap = <1>;
+		switch-phy-swap = <1>;
 	};
 };
 
